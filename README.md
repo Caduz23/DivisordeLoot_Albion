@@ -1,7 +1,7 @@
 # DivisordeLoot_Albion
 
 Criado com o intuito de ajudar guilds que fazem conteúdos e tem que ao final desse fazer a divisão do arrecadado e ter um histórico de quanto cada player já fez de loot na guilda.
-Para seu uso é necessário:
+Para seu uso é necessário:\n
 Preencher o campo nome do loot -> por exemplo: Loot1
 Preencher a data -> por exemplo: 26-08 ou 26/08 o modo de escrita é indiferente
 Preencher o valor total do loot, tendo como divisor para quebrados o ponto -> por exemplo 53679255.3
