@@ -1,4 +1,4 @@
-# DivisordeLoot_Albion
+# Divisor_de_Loot_Albion
 
 Criado com o intuito de ajudar guilds que fazem conteúdos e tem que ao final desse fazer a divisão do arrecadado e ter um histórico de quanto cada player já fez de loot na guilda. <br />
 Para seu uso é necessário: <br />
